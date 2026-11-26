@@ -1,4 +1,4 @@
-# Priject SMARTABSENT
+# Project SMARTABSENT
 Program sederhana untuk mencatat kehadiran siswa/i yang dibuat menggunakan bahasa pemprograman Visual Basic Scrip.
 
 # Cara Menjalankan
