@@ -1,3 +1,4 @@
+#REFLEKSI
 Selama proses pembuatan aplikasi SNARTABSENT ini,
 saya belajar mengenal bahasa pemrograman, menulis code, menggunakan menu, serta memperbaiki kesalahan yang terjadi pada program.
 Cukup banyak kesulitan yang saya alami ketika terdapat kesalahan pada kode program sehingga aplikasih tidak berjalan sesuai yang saya inginkan. 
